@@ -16,7 +16,7 @@ export const storagesync = (context: Context) => {
     const trigger = (...args: TArgs) => {
       context.logger.debug(`trigger(${args.join(", ")})`);
       const value = publisher(...args);
-      ls(context.options.channel, value);
+      ls.default(context.options.channel, value);
     };
 
     const notifySubscriber = (value: TMessage) => {
@@ -27,7 +27,7 @@ export const storagesync = (context: Context) => {
       context.logger.debug(`start(sync = ${sync})`);
       ls.on(context.options.channel, notifySubscriber);
       if (sync) {
-        const value = ls.get(context.options.channel);
+        const value = ls.get<TMessage>(context.options.channel);
         notifySubscriber(value);
       }
       isRunning = true;
