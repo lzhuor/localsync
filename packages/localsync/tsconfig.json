@@ -7,7 +7,7 @@
   "include": ["src"],
   "references": [
     { "path": "../localsync-core" },
-    { "path": "../storagesync" },
+    { "path": "../storagesync-tab" },
     { "path": "../cookiesync" },
     { "path": "../serversync" }
   ]

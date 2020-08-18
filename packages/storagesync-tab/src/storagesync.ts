@@ -16,7 +16,7 @@ export const storagesync = (context: Context) => {
     const trigger = (...args: TArgs) => {
       context.logger.debug(`trigger(${args.join(", ")})`);
       const value = publisher(...args);
-      ls.default(context.options.channel, value);
+      ls.set(context.options.channel, value);
     };
 
     const notifySubscriber = (value: TMessage) => {

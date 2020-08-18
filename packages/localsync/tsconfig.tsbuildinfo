@@ -197,16 +197,16 @@
         "version": "173c98311bad6350a50af6ff50f077dfdca047ff121dc1145de8ee142e6557db",
         "signature": "173c98311bad6350a50af6ff50f077dfdca047ff121dc1145de8ee142e6557db"
       },
-      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync/lib/storagesync.d.ts": {
+      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync-tab/lib/storagesync.d.ts": {
         "version": "a3f6d10845c7553698fa2083068e93c4eeefc8fe46e3843b9bfd2edcb2d96ca3",
         "signature": "a3f6d10845c7553698fa2083068e93c4eeefc8fe46e3843b9bfd2edcb2d96ca3"
       },
-      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync/lib/index.d.ts": {
+      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync-tab/lib/index.d.ts": {
         "version": "1f0c7db136c307a248e192cb0574abd1bc926373596175306c933720e540caf7",
         "signature": "1f0c7db136c307a248e192cb0574abd1bc926373596175306c933720e540caf7"
       },
       "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync/src/localsync.ts": {
-        "version": "d8e66835a5d554c7229a14337f8c0a1dd0f23fcc3a5e059e699ca47ccc074b71",
+        "version": "ab829af97c5e9968cd59a22a252660bbcbf190e8445046dd6df64994405fe8c2",
         "signature": "a9232664fc4a917aa9527793a1fe37560449304e435ce52eb4d249740dfeab44"
       },
       "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync/src/localsyncshim.ts": {
@@ -272,10 +272,6 @@
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/jest/index.d.ts": {
         "version": "71068d58b3d485fe2fcd53a3b18d66bd9b9dc1ee5e90968cd27f6e468202833f",
         "signature": "71068d58b3d485fe2fcd53a3b18d66bd9b9dc1ee5e90968cd27f6e468202833f"
-      },
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/local-storage/index.d.ts": {
-        "version": "c5bfb2e326be536684c785a6f70ab75ab5785229cb57f788bf7a022404101ef1",
-        "signature": "c5bfb2e326be536684c785a6f70ab75ab5785229cb57f788bf7a022404101ef1"
       },
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/globals.d.ts": {
         "version": "e4461b72726848da76a31153b6b01af5e0be3b08dbfa2ec5741ad302eb20f2ed",
@@ -732,13 +728,13 @@
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync/lib/storagesync.d.ts": [
+      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync-tab/lib/storagesync.d.ts": [
         "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/index.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync/lib/index.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync/lib/storagesync.d.ts",
+      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync-tab/lib/index.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync-tab/lib/storagesync.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -746,7 +742,7 @@
         "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/index.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/packages/serversync/lib/index.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/packages/cookiesync/lib/index.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync/lib/index.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync-tab/lib/index.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -833,10 +829,6 @@
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/jest/index.d.ts": [
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/jest-diff/build/index.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/jest-diff/index.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/local-storage/index.d.ts": [
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1265,13 +1257,13 @@
       "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync/src/localsync.ts": [
         "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/index.d.ts"
       ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync/lib/storagesync.d.ts": [
+      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync-tab/lib/storagesync.d.ts": [
         "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/index.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync/lib/index.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync/lib/storagesync.d.ts",
+      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync-tab/lib/index.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync-tab/lib/storagesync.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1435,10 +1427,6 @@
       ],
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/jest-diff/build/index.d.ts": [
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/jest-diff/build/types.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/local-storage/index.d.ts": [
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1767,8 +1755,8 @@
       "/users/lzhuor/webstormprojects/open-source/localsync/packages/serversync/lib/index.d.ts",
       "/users/lzhuor/webstormprojects/open-source/localsync/packages/cookiesync/lib/cookiesync.d.ts",
       "/users/lzhuor/webstormprojects/open-source/localsync/packages/cookiesync/lib/index.d.ts",
-      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync/lib/storagesync.d.ts",
-      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync/lib/index.d.ts",
+      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync-tab/lib/storagesync.d.ts",
+      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync-tab/lib/index.d.ts",
       "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync/src/localsync.ts",
       "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync/src/localsyncshim.ts",
       "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync/src/index.ts",
@@ -1786,7 +1774,6 @@
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/jest-diff/build/types.d.ts",
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/jest-diff/build/index.d.ts",
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/jest/index.d.ts",
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/local-storage/index.d.ts",
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/globals.d.ts",
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/assert.d.ts",
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/async_hooks.d.ts",

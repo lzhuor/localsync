@@ -185,11 +185,11 @@
         "version": "9012abec6da4dca336eefc341a80aec31fa7b9baa7b9ca9202b2979fc94fc3a1",
         "signature": "9012abec6da4dca336eefc341a80aec31fa7b9baa7b9ca9202b2979fc94fc3a1"
       },
-      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync/src/storagesync.ts": {
-        "version": "cb49dd6ed9d5d4b6cb6393a706f98109694adf794485cc805dc553b0b1636ca8",
+      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync-tab/src/storagesync.ts": {
+        "version": "e4ec3cb140710d41e788aaf5e918bafa9bb438f13df3cd6f76f166491c9757d2",
         "signature": "13cbf87bedb25da05eca8f132f25b0355a2f6079a220ded3de51d6ae5a32e447"
       },
-      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync/src/index.ts": {
+      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync-tab/src/index.ts": {
         "version": "33084f48bc15eebf14aa8e9a0154cdaf918e343d95fb4b63fabbe286f412ffd1",
         "signature": "21e7915108cb6fc7497fdb642751232e8c253df54a47a656420b06c6e116f702"
       },
@@ -244,10 +244,6 @@
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/jest/index.d.ts": {
         "version": "71068d58b3d485fe2fcd53a3b18d66bd9b9dc1ee5e90968cd27f6e468202833f",
         "signature": "71068d58b3d485fe2fcd53a3b18d66bd9b9dc1ee5e90968cd27f6e468202833f"
-      },
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/local-storage/index.d.ts": {
-        "version": "c5bfb2e326be536684c785a6f70ab75ab5785229cb57f788bf7a022404101ef1",
-        "signature": "c5bfb2e326be536684c785a6f70ab75ab5785229cb57f788bf7a022404101ef1"
       },
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/globals.d.ts": {
         "version": "e4461b72726848da76a31153b6b01af5e0be3b08dbfa2ec5741ad302eb20f2ed",
@@ -465,9 +461,9 @@
       "composite": true,
       "declaration": true,
       "declarationMap": true,
-      "rootDir": "/Users/lzhuor/WebstormProjects/open-source/localsync/packages/storagesync/src",
-      "outDir": "/Users/lzhuor/WebstormProjects/open-source/localsync/packages/storagesync/lib",
-      "configFilePath": "/Users/lzhuor/WebstormProjects/open-source/localsync/packages/storagesync/tsconfig.json"
+      "rootDir": "/Users/lzhuor/WebstormProjects/open-source/localsync/packages/storagesync-tab/src",
+      "outDir": "/Users/lzhuor/WebstormProjects/open-source/localsync/packages/storagesync-tab/lib",
+      "configFilePath": "/Users/lzhuor/WebstormProjects/open-source/localsync/packages/storagesync-tab/tsconfig.json"
     },
     "referencedMap": {
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/typescript/lib/lib.es5.d.ts": [
@@ -688,14 +684,14 @@
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync/src/storagesync.ts": [
+      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync-tab/src/storagesync.ts": [
         "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/index.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/local-storage/index.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync/src/index.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync/src/storagesync.ts",
+      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync-tab/src/index.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync-tab/src/storagesync.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -764,10 +760,6 @@
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/jest/index.d.ts": [
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/jest-diff/build/index.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/jest-diff/index.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/local-storage/index.d.ts": [
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1163,6 +1155,71 @@
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/action.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/func.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/loglevel.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/fallbackoptions.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/config.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/loglevel.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/fallbackoptions.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/options.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/loglevel.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/fallbackoptions.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/logger.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/mechanism.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/context.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/options.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/logger.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/mechanism.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/controller.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/mechanism.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/createcontroller.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/controller.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/func.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/action.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/localsync.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/config.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/createcontroller.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/localsyncdeprecated.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/func.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/controller.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/action.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/index.d.ts": [
         "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/action.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/config.d.ts",
@@ -1180,18 +1237,6 @@
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/index.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/index.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/utils/index.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync/src/storagesync.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/index.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync/src/index.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync/src/storagesync.ts"
-      ],
       "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/utils/createcontext.d.ts": [
         "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/index.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
@@ -1202,68 +1247,9 @@
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/localsyncdeprecated.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/func.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/controller.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/action.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/createcontroller.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/controller.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/func.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/action.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/localsync.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/config.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/createcontroller.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/action.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/func.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/loglevel.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/options.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/loglevel.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/fallbackoptions.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/context.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/options.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/logger.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/mechanism.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/config.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/loglevel.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/fallbackoptions.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/fallbackoptions.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/logger.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/mechanism.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/controller.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/mechanism.d.ts",
+      "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/index.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/types/index.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/utils/index.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1271,7 +1257,34 @@
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync-tab/src/storagesync.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/index.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync-tab/src/index.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync-tab/src/storagesync.ts"
+      ],
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@babel/types/lib/index.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/babel__generator/index.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@babel/types/lib/index.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/babel__traverse/index.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@babel/types/lib/index.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@babel/parser/typings/babel-parser.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@babel/types/lib/index.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/babel__template/index.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@babel/types/lib/index.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1284,28 +1297,12 @@
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/babel__template/index.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@babel/parser/typings/babel-parser.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@babel/types/lib/index.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@babel/parser/typings/babel-parser.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@babel/types/lib/index.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/babel__traverse/index.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@babel/types/lib/index.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/babel__generator/index.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@babel/types/lib/index.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/istanbul-lib-coverage/index.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/istanbul-lib-report/index.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/istanbul-lib-coverage/index.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1315,18 +1312,7 @@
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/istanbul-lib-report/index.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/istanbul-lib-coverage/index.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/jest-diff/index.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/jest/index.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/jest-diff/build/index.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/jest-diff/index.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1339,7 +1325,9 @@
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/local-storage/index.d.ts": [
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/jest/index.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/jest-diff/build/index.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/jest-diff/index.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1348,6 +1336,207 @@
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/assert.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/async_hooks.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/buffer.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/child_process.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/events.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/net.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/stream.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/cluster.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/child_process.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/events.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/net.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/console.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/constants.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/crypto.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/stream.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/dgram.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/net.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/dns.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/events.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/dns.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/domain.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/events.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/events.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/fs.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/stream.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/events.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/url.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/http.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/events.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/stream.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/url.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/net.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/http2.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/events.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/fs.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/net.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/stream.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/tls.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/url.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/http.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/https.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/tls.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/events.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/http.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/url.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/inspector.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/events.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/module.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/net.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/stream.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/events.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/dns.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/os.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/path.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/perf_hooks.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/async_hooks.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/process.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/punycode.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/querystring.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/readline.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/events.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/stream.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/repl.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/readline.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/vm.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/stream.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/events.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/string_decoder.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/timers.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/tls.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/crypto.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/dns.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/net.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/stream.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/trace_events.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/tty.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/net.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/url.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/querystring.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/v8.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/stream.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/vm.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/worker_threads.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/vm.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/events.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/stream.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/zlib.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/stream.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1394,226 +1583,25 @@
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/zlib.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/index.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/base.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/globals.d.ts",
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts": [
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/async_hooks.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/perf_hooks.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/async_hooks.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/buffer.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/child_process.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/events.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/net.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/stream.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/cluster.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/child_process.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/events.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/net.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/console.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/constants.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/crypto.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/stream.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/tls.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/crypto.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/dns.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/net.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/stream.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/https.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/tls.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/events.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/http.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/url.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/http2.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/events.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/fs.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/net.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/stream.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/tls.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/url.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/http.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/dgram.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/net.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/dns.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/events.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/dns.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/net.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/stream.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/events.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/dns.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/tty.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/net.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/http.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/events.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/stream.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/url.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/net.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/domain.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/events.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/events.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/worker_threads.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/vm.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/events.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/stream.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/stream.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/events.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/zlib.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/stream.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/v8.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/stream.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/readline.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/events.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/stream.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/repl.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/readline.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/vm.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/fs.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/stream.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/events.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/url.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/inspector.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/events.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/module.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/os.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/path.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/process.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/punycode.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/querystring.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/url.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/querystring.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/string_decoder.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/timers.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/trace_events.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/yargs/index.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/stack-utils/index.d.ts": [
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
-        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/globals.d.ts": [
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/globals.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts": [
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/index.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/base.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/globals.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts"
       ],
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/vm.d.ts": [
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/stack-utils/index.d.ts": [
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
+        "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/yargs/index.d.ts": [
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/util.d.ts",
         "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/util.d.ts"
       ]
@@ -1665,8 +1653,7 @@
       "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/utils/index.d.ts",
       "/users/lzhuor/webstormprojects/open-source/localsync/packages/localsync-core/lib/index.d.ts",
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/local-storage/index.d.ts",
-      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync/src/storagesync.ts",
-      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync/src/index.ts",
+      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync-tab/src/index.ts",
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@babel/types/lib/index.d.ts",
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/babel__generator/index.d.ts",
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/babel__traverse/index.d.ts",
@@ -1680,7 +1667,6 @@
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/jest-diff/build/types.d.ts",
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/jest-diff/build/index.d.ts",
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/jest/index.d.ts",
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/local-storage/index.d.ts",
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/globals.d.ts",
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/assert.d.ts",
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/async_hooks.d.ts",
@@ -1726,7 +1712,8 @@
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/globals.d.ts",
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/node/ts3.2/index.d.ts",
       "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/stack-utils/index.d.ts",
-      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/yargs/index.d.ts"
+      "/users/lzhuor/webstormprojects/open-source/localsync/node_modules/@types/yargs/index.d.ts",
+      "/users/lzhuor/webstormprojects/open-source/localsync/packages/storagesync-tab/src/storagesync.ts"
     ]
   },
   "version": "3.5.3"

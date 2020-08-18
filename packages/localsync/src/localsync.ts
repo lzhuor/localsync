@@ -7,7 +7,7 @@ import {
 } from "localsync-core";
 import { serversync } from "serversync";
 import { cookiesync } from "cookiesync";
-import { storagesync } from "storagesync";
+import { storagesync } from "storagesync-tab";
 
 const getSynchronizer = (context: Context) => {
   switch (context.mechanism) {
